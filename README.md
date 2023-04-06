@@ -1,5 +1,5 @@
 
-# 🎸 Linebreak Removed Copier for Windows
+# 🎸 Linebreak Removed Copier
 <br>
 
 ##  📝 Introduction
@@ -8,14 +8,16 @@
 <br>
 
 ### Here's how to use:
-### 🌠 1. Copy PDF texts using 'Ctrl + C C' command.
+### 🌠 1. Copy PDF texts using 'Ctrl (command) + C C'.
 
 ### 🌠 2. Paste the text without linebreaks.
 <br>
 
 
-### 💻 You can download an executable *.exe file of this project in a *.zip file.
-File name: LinebreakRemovedCopier.zip
+### 💻 You can also download an executable file.
+File name: LinebreakRemovedCopier.zip (for Windows)
 <br>
-
+File name: LinebreakRemovedCopierForMac (for Mac)
+<br>
+<br>
 #### Contact: ✉️ kwonova@yonsei.ac.kr
