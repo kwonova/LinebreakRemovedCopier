@@ -17,7 +17,7 @@
 ### 💻 You can also download an executable file.
 File name: LinebreakRemovedCopier.zip (for Windows)
 <br>
-File name: LinebreakRemovedCopierForMac (for Mac)
+File name: LinebreakRemovedCopierForMac.zip (for Mac)
 <br>
 <br>
 #### Contact: ✉️ kwonova@yonsei.ac.kr
