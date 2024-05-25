@@ -8,9 +8,12 @@
 <br>
 
 ### Here's how to use:
-### 🌠 1. Copy PDF texts using 'Ctrl (command) + C C'.
+### 🌠 1. Open the program.
 
-### 🌠 2. Paste the text without linebreaks.
+### 🌠 2. Copy PDF texts using 'Ctrl (command) + C C'
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Hold down 'Ctrl' (or 'command' for Mac) and press 'C' twice._
+
+### 🌠 3. Paste the text anywhere without linebreaks!
 <br>
 
 
