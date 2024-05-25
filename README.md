@@ -24,3 +24,7 @@ File name: [LinebreakRemovedCopierForMac.zip](https://github.com/kwonova/Linebre
 <br>
 <br>
 #### Contact: ✉️ kwonova@yonsei.ac.kr
+
+#### ↓ If you would like to donate, or network
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/su.kwon.ignis)
